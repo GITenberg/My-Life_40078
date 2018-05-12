@@ -1,0 +1,36 @@
+_repo: My-Life_40078
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flynt, Josiah
+    alias: Willard, Josiah Flynt
+    birthdate: 1869
+    deathdate: 1907
+    gutenberg_agent_id: '37421'
+    url: http://www.gutenberg.org/2009/agents/37421
+description: ''
+gutenberg_issued: '2012-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40078'
+  lccn: 08030135
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Flynt, Josiah, 1869-1907'
+title: My Life
+url: http://www.gutenberg.org/ebooks/40078
